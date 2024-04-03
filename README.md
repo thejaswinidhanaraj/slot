@@ -119,8 +119,6 @@ SLOT</th>
 </html>
 ```
 ## OUTPUT
-
-![LOGO](https://github.com/thejaswinidhanaraj/slot/assets/148514511/9d48e806-e53d-4c49-8d84-69c474e74397)
 ![Screenshot 2024-04-02 111007](https://github.com/thejaswinidhanaraj/slot/assets/148514511/3aec0fac-ba61-4522-90ed-6b4b02cd8878)
 
 
