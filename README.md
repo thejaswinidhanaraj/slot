@@ -24,15 +24,21 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+
 ```
+
 <!DOCTYPE html> 
 <html> 
 <head> 
 <title>SEC Timetable</title> 
 </head> 
+<img src="logo.png"> 
 <body> 
 <table border="5" width="600"> 
 <tr> 
+Preview Code Blame Raw 
+29/12/2023, 08:56 timetable/README.md at main · NITHIYANERANJAN/timetable 
+https://github.com/NITHIYANERANJAN/timetable/blob/main/timetable.png 2/4 
 <th bgcolor="yellow">Day/Time</th> 
 <th bgcolor="yellow">Monday</th> 
 <th bgcolor="yellow">Tuesday</th> 
@@ -87,6 +93,9 @@ SLOT</th>
 <td>1.</td> 
 <td>19AI414</td> 
 <td>Fundamentals of Web Application Developement (FWAD) 
+29/12/2023, 08:56 timetable/README.md at main · NITHIYANERANJAN/timetable 
+https://github.com/NITHIYANERANJAN/timetable/blob/main/timetable.png 3/4 
+OUPUT 
 </td> 
 </tr> 
 <tr> 
@@ -117,9 +126,11 @@ SLOT</th>
 </table> 
 </body> 
 </html>
+
 ```
 ## OUTPUT
-![Screenshot 2024-04-02 111007](https://github.com/thejaswinidhanaraj/slot/assets/148514511/3aec0fac-ba61-4522-90ed-6b4b02cd8878)
+
+![image](https://github.com/thejaswinidhanaraj/slot/assets/148514511/64d07abe-d4f1-4360-8b69-99737e13dd26)
 
 
 ## RESULT
